@@ -1,5 +1,3 @@
-package DiaSemana;
-
 public class SabadoStrategy extends StrategyBase {
     public SabadoStrategy() {
         super(DiaSemana.SABADO, Prioridade.BAIXA);

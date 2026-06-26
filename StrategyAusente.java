@@ -1,5 +1,3 @@
-package DiaSemana;
-
 public class StrategyAusente implements StrategyDia {
     @Override
     public ResultadoStrategy executar(ContextoExecucao contexto) {

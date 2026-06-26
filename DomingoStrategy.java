@@ -1,5 +1,3 @@
-package DiaSemana;
-
 public class DomingoStrategy extends StrategyBase {
     public DomingoStrategy() {
         super(DiaSemana.DOMINGO, Prioridade.MEDIA);
